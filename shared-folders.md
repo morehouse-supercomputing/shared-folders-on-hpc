@@ -23,7 +23,7 @@ tags:
 ---
 # Shared Folders on HPC
 
-Reusable guide for setting up shared directories on HPC for classes, labs, and research teams. Maintained by MSCF.
+Reusable guide for setting up shared directories on HPC for classes, labs, and research teams. Maintained by MSF.
 
 **Status:** Active (reusable template; periodic maintenance)
 

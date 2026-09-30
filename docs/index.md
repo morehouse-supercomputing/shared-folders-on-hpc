@@ -318,6 +318,6 @@ Always use `$WORK` for shared directories.
 
 ## Related Guides
 
-- [Getting Started with MSCF](https://morehouse-supercomputing.github.io/mscf-getting-started/) — HPC account setup, SSH, first job
+- [Getting Started with MSF](https://morehouse-supercomputing.github.io/mscf-getting-started/) — HPC account setup, SSH, first job
 - [Jupyter on HPC](https://morehouse-supercomputing.github.io/jupyter-on-hpc/) — Running Jupyter notebooks on compute nodes
 - [SQL on HPC](https://morehouse-supercomputing.github.io/sql-on-hpc/) — Querying large databases on HPC
